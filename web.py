@@ -2,4 +2,5 @@
 print "hello"
 print "word"
 
-print "ok
+print "ok"
+print "test"
